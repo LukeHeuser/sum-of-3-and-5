@@ -19,8 +19,8 @@ public class Main {
             }
 
         }
-
-        System.out.println(sumOfMatches + " is the total sum of the first five numbers that are divisible by 3 or 5"); // This command prints the total sum of all matches
+        // This command prints the total sum of all matches
+        System.out.println(sumOfMatches + " is the total sum of the first five numbers that are divisible by 3 or 5");
 
     }
 }
